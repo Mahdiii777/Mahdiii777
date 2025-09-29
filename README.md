@@ -2,7 +2,7 @@
 <h3 align="center">I like AI from Iran</h3>
 
 
-<img align="right" alt="sheikh python" width = "400" src ="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+<img align="right" alt="sheikh python" width = "250" src ="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdiii777&label=Profile%20views&color=0e75b6&style=flat" alt="mahdiii777" /> </p>
